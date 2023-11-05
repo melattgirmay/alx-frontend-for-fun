@@ -1,5 +1,3 @@
-<title>Project: Accessibility | Addis Ababa Intranet</title>
-
 <h1>Accessibility</h1>
 
 <h2>Learning Objectives</h2>
